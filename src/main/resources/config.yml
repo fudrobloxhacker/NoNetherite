@@ -1,0 +1,18 @@
+# NoNetherite Plugin Configuration
+disable-message: "Netherite items are not allowed on this server."
+enable-disable-message: true
+remove-on-death: false # Remove Netherite items on player death
+prevent-placement: true # Prevent placement of Netherite blocks
+disabled-items:
+  - NETHERITE_INGOT
+  - NETHERITE_SWORD
+  - NETHERITE_PICKAXE
+  - NETHERITE_AXE
+  - NETHERITE_SHOVEL
+  - NETHERITE_HOE
+  - NETHERITE_HELMET
+  - NETHERITE_CHESTPLATE
+  - NETHERITE_LEGGINGS
+  - NETHERITE_BOOTS
+  - NETHERITE_BLOCK
+  - NETHERITE_SCRAP

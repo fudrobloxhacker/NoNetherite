@@ -1,6 +1,6 @@
 name: NoNetherite
 version: '1.0-SNAPSHOT'
-main: wtf.pathos.noNetherite.NoNetheritePlugin
-api-version: '1.20'
-authors: [ lwes, pathos ]
-description: anticheat pluegin
+main: wtf.pathos.nonetherite.NoNetheritePlugin
+api-version: 1.20
+authors: [ pathos ]
+description: Disables the use of Netherite items on the server.
